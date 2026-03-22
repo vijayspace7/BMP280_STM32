@@ -1,0 +1,12 @@
+../Core/Src/bare_metal.c:7:13:delay	2
+../Core/Src/bare_metal.c:15:13:led_init	1
+../Core/Src/bare_metal.c:35:13:led_on	1
+../Core/Src/bare_metal.c:40:13:led_off	1
+../Core/Src/bare_metal.c:45:13:led_toggle	1
+../Core/Src/bare_metal.c:50:13:i2c1_gpio_init	1
+../Core/Src/bare_metal.c:75:13:i2c1_init	1
+../Core/Src/bare_metal.c:98:13:i2c1_stop	1
+../Core/Src/bare_metal.c:103:12:i2c1_check_address	11
+../Core/Src/bare_metal.c:159:12:i2c1_write_reg	20
+../Core/Src/bare_metal.c:238:12:i2c1_read_reg	26
+../Core/Src/bare_metal.c:351:5:main	5

@@ -1,0 +1,12 @@
+../Core/Src/bare_metal.c:7:13:delay	16	static,ignoring_inline_asm
+../Core/Src/bare_metal.c:15:13:led_init	4	static
+../Core/Src/bare_metal.c:35:13:led_on	4	static
+../Core/Src/bare_metal.c:40:13:led_off	4	static
+../Core/Src/bare_metal.c:45:13:led_toggle	4	static
+../Core/Src/bare_metal.c:50:13:i2c1_gpio_init	4	static
+../Core/Src/bare_metal.c:75:13:i2c1_init	4	static
+../Core/Src/bare_metal.c:98:13:i2c1_stop	4	static
+../Core/Src/bare_metal.c:103:12:i2c1_check_address	24	static
+../Core/Src/bare_metal.c:159:12:i2c1_write_reg	24	static
+../Core/Src/bare_metal.c:238:12:i2c1_read_reg	24	static
+../Core/Src/bare_metal.c:351:5:main	24	static
